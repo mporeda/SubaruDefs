@@ -713,13 +713,13 @@ for any damage or injury incurred as a result of these definitions. USE AT YOUR 
     <table name="Hotstart Minimum Enrichment Limit Runtime" storageaddress="10BAC0" />
     <table name="Hotstart Minimum Enrichment (During Delay and Runtime)" storageaddress="10C338" />
     <table name="(P0011) CAMSHAFT POS. - TIMING OVER-ADVANCED 1" storageaddress="11B964" />
-    <table name="(P0014) EXHAUST AVCS SYSTEM 1 RANGE/PERF" storageaddress="11BC7C" />
+    <table name="(P0014) EXHAUST AVCS SYSTEM 1 RANGE PERF" storageaddress="11BC7C" />
     <table name="(P0016) CRANKSHAFT/CAMSHAFT CORRELATION 1A" storageaddress="11BC64" />
     <table name="(P0017) CRANK/CAM TIMING B FAILURE 1" storageaddress="11BCA0" />
     <table name="(P0018) CRANKSHAFT/CAMSHAFT CORRELATION 2A" storageaddress="11BC58" />
     <table name="(P0019) CRANK/CAM TIMING B FAILURE 2" storageaddress="11BC94" />
     <table name="(P0021) CAMSHAFT POS. - TIMING OVER-ADVANCED 2" storageaddress="11B970" />
-    <table name="(P0024) EXHAUST AVCS SYSTEM 2 RANGE/PERF" storageaddress="11BC70" />
+    <table name="(P0024) EXHAUST AVCS SYSTEM 2 RANGE PERF" storageaddress="11BC70" />
     <table name="(P0031) FRONT O2 SENSOR LOW INPUT" storageaddress="11BA60" />
     <table name="(P0032) FRONT O2 SENSOR HIGH INPUT" storageaddress="11BA48" />
     <table name="(P0037) REAR O2 SENSOR LOW INPUT" storageaddress="11BA54" />
@@ -753,7 +753,7 @@ for any damage or injury incurred as a result of these definitions. USE AT YOUR 
     <table name="(P0333) KNOCK SENSOR 2 HIGH INPUT" storageaddress="11B850" />
     <table name="(P0335) CRANKSHAFT POS. SENSOR A MALFUNCTION" storageaddress="11B7FC" />
     <table name="(P0340) CAMSHAFT POS. SENSOR A MALFUNCTION" storageaddress="11BBBC" />
-    <table name="(P0341) CAMSHAFT POS. SENSOR A RANGE/PERF" storageaddress="11BF94" />
+    <table name="(P0341) CAMSHAFT POS. SENSOR A RANGE PERF" storageaddress="11BF94" />
     <table name="(P0345) CAMSHAFT POS. SENSOR A BANK 2" storageaddress="11BBB0" />
     <table name="(P0351) IGNITION COIL A PRIMARY/SECONDARY CIRCUIT MALFUNCTION" storageaddress="11BE8C" />
     <table name="(P0352) IGNITION COIL B PRIMARY/SECONDARY CIRCUIT MALFUNCTION" storageaddress="11BE80" />
@@ -773,7 +773,7 @@ for any damage or injury incurred as a result of these definitions. USE AT YOUR 
     <table name="(P0851) NEUTRAL SWITCH INPUT LOW" storageaddress="11B8D4" />
     <table name="(P0852) NEUTRAL SWITCH INPUT HIGH" storageaddress="11B8E0" />
     <table name="(P1160) ABNORMAL RETURN SPRING" storageaddress="11BB08" />
-    <table name="(P2101) THROTTLE ACTUATOR CIRCUIT RANGE/PERF" storageaddress="11BB2C" />
+    <table name="(P2101) THROTTLE ACTUATOR CIRCUIT RANGE PERF" storageaddress="11BB2C" />
     <table name="(P2102) THROTTLE ACTUATOR CIRCUIT LOW" storageaddress="11BB14" />
     <table name="(P2103) THROTTLE ACTUATOR CIRCUIT HIGH" storageaddress="11BB20" />
     <table name="(P2109) TPS A MINIMUM STOP PERF" storageaddress="11BAE4" />
